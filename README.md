@@ -5,4 +5,4 @@ If you wanna use the file as a library, just import it and use either of online_
 You can also just run it using python3 and use it as a script.
 # Requirements
 - python3
-- googletrans library(install using "sudo python3 -m pip install googletrans")
+- googletrans library(install using "sudo python3 -m pip install googletrans==3.1.0a0")
